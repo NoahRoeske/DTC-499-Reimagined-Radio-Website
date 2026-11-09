@@ -178,8 +178,14 @@ h4 {
     border-radius: 20px; */
 }
 
+.cast li {
+    padding: 15px 0 15px 0;
+}
+
 .cast-section {
     color: white;
+    align-items: center;
+    text-align: center;
 }
 
 .behind-the-scenes {
